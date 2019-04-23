@@ -17,7 +17,7 @@ ___
 
 超链接: https://github.com/Peezz/test/new/master?readme=1
 
-        Hello, World!
+        Hello, World!xxx
         
 Thank `You`. Please `Call` Me `Coder`
 
@@ -36,8 +36,4 @@ Thank `You`. Please `Call` Me `Coder`
 >>>二叉树
 >>>>平衡二叉树
 >>>>>满二叉树
-
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-
-![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)
 
